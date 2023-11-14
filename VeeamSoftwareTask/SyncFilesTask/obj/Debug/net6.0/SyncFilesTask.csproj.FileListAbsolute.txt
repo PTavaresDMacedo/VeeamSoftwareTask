@@ -1,0 +1,46 @@
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.exe
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.deps.json
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.runtimeconfig.json
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.pdb
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.csproj.AssemblyReference.cache
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.AssemblyInfoInputs.cache
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.AssemblyInfo.cs
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.csproj.CoreCompileInputs.cache
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\refint\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.pdb
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.genruntimeconfig.cache
+C:\Users\pepst\Desktop\Projeto Assembly\SyncFilesTask\obj\Debug\net6.0\ref\SyncFilesTask.dll
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.exe
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.deps.json
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.runtimeconfig.json
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.dll
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.pdb
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.csproj.AssemblyReference.cache
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.AssemblyInfoInputs.cache
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.AssemblyInfo.cs
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.csproj.CoreCompileInputs.cache
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.dll
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\refint\SyncFilesTask.dll
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.pdb
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.genruntimeconfig.cache
+C:\Users\pepst\Desktop\ProjetoAssembly\SyncFilesTask\obj\Debug\net6.0\ref\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.exe
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.dll.config
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.deps.json
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.runtimeconfig.json
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\bin\Debug\net6.0\SyncFilesTask.pdb
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.csproj.AssemblyReference.cache
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.AssemblyInfoInputs.cache
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.AssemblyInfo.cs
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.csproj.CoreCompileInputs.cache
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\refint\SyncFilesTask.dll
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.pdb
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\SyncFilesTask.genruntimeconfig.cache
+C:\Users\pepst\Desktop\Projetos\SyncFilesTask\obj\Debug\net6.0\ref\SyncFilesTask.dll
